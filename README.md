@@ -4,6 +4,7 @@
 >Out-of-the-box, sample library including knowledge management designs, plugins and appearence,designed to provide a better Obsidian getting started experience
 - [Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example):A vault that contains common obsidian plug-ins with beautiful style and well-designed features, produced by the pkmer community
 - [LifeOS](https://github.com/quanru/obsidian-example-lifeos):This repository is a sample project for the blog [Building my second brain 🧠 with Obsidian](https://quanru.github.io/2023/07/08/Building%20my%20second%20brain%20%F0%9F%A7%A0%20with%20Obsidian/) by [林宜丙](https://quanru.github.io/2023/07/08/Building%20my%20second%20brain%20%F0%9F%A7%A0%20with%20Obsidian/)
+- [LYT kit](https://forum.obsidian.md/t/ideaverse-for-obsidian-formerly-the-lyt-kit-now-available/390) //TODO
 
 ## content
 >A knowledge map of a certain knowledge field contains content that is easy to understand and good knowledge classification.
