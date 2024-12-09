@@ -22,3 +22,12 @@
 ### Obs4Research
 
 - [Obsidian-PaperBell](https://github.com/SongshGeo/Obsidian-PaperBell)
+
+- [sheldonxxd-obsidian_vault_template_for_researcher](https://github.com/sheldonxxd/obsidian_vault_template_for_researcher)
+- [sheldonxxd-obsidian_vault_template_for_graduate_student](https://github.com/sheldonxxd/obsidian_vault_template_for_graduate_student)
+这两个仓库都是[sheldonxxd](https://github.com/sheldonxxd)用来搞科研的（其中第一个4researcher已于2022年停止更新），里面有若干篇md与canvas介绍关于研究生搞科研相关的主要工作流程操作说明。主题风格搭配的也不错。
+
+### LLM & AI plugin integration
+
+- [LIUBINfighter-Sample_AI_Workspace](https://github.com/LIUBINfighter/Sample_AI_Workspace)
+介绍了4种主流LLM插件的使用，下载仓库配好ollama就可以用，包括textGen，copilot，smart2brain，LocalGPT，以及作者尚未放出的IrisChatBox插件试用版。教程有中英文
